@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/12746571-3f56-4d48-b242-f7236dec5675" /># 循环队列简易通讯录
+# 循环队列简易通讯录
 数据结构课程设计，使用纯C++手动实现循环队列，完成联系人基础管理功能。
 
 ## 项目功能
@@ -9,8 +9,7 @@
 - 展示所有联系人
 
 ## 运行截图
-
-
+<img width="2501" height="1528" alt="屏幕截图 2026-05-20 132946" src="https://github.com/user-attachments/assets/7dd938dc-69fa-48fb-a136-efe09828b649" />
 
 ## 技术实现
 - 底层结构：手写循环队列，数组模拟实现
