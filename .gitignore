@@ -1,0 +1,12 @@
+# 忽略C++编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+
+# 忽略IDE临时文件
+.vscode/
+.idea/
+*.user
